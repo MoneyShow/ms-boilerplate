@@ -1,0 +1,15 @@
+# Ignore specific files
+*.smbdelete*
+
+# Ignore folders
+
+#log files
+logs
+*.log
+npm-debug.log*
+
+#Sublime Project files
+*.sublime*
+
+# Dev files that aren't needed in git
+node_modules
